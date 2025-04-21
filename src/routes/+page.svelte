@@ -34,7 +34,7 @@
       domain of browser exploitation. You can find my numerous write-ups on my
       <span class="underline-red"
         ><a
-          href="https://jax.dev/blog"
+          href="https://jaxdunfee.com/blog"
           target="_blank"
           class="hover:text-[#f36170]">blog</a
         ></span
