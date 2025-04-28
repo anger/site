@@ -29,9 +29,9 @@
       browser exploitation challenges. My technical write-ups are available on my
       <span class="underline-red">
         <a href="https://jaxdunfee.com/blog" target="_blank" class="hover:text-[#f36170]">
-          blog
+          blog.
         </a>
-      </span>.
+      </span>
     </p>
   </div>
   <p>
