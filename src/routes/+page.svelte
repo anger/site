@@ -13,7 +13,7 @@
   class="layout-md text-xl leading-tight font-light mb-6 text-[#DAA520]"
   id="intro"
 >
-  <span class="g">security researcher </span> ctf enthusiast <span class="g">&</span> climber
+  <span class="g">enjoys </span> ctfs <span class="g">&</span> bouldering
 </p>
 
 <div class="layout-md text-lg space-y-5">
