@@ -6,49 +6,41 @@
 
 <Seo
   title="Jax Dunfee"
-  description="Jax Dunfee · Cyber Security Engineer & Security Researcher based in the United States"
+  description="Jax Dunfee · Security Researcher based in the United States"
 />
 
 <p
   class="layout-md text-xl leading-tight font-light mb-6 text-[#DAA520]"
   id="intro"
 >
-  <span class="g">enjoys </span> ctfs <span class="g">&</span> climbing
+  <span class="g">security researcher </span> ctf enthusiast <span class="g">&</span> climber
 </p>
 
 <div class="layout-md text-lg space-y-5">
   <p>
-    Hey there, I'm Jax. I'm a full-time <span class="underline-red">
-      Vulnerability Researcher</span
-    >
-    who does <span class="underline-orange"> CTFs</span> and
-    <span class="underline-orange">Security Research</span> on the side.
+    I'm Jax, a <span class="underline-red">Vulnerability Researcher</span> with a focus on 
+    <span class="underline-orange">offensive security</span> and
+    <span class="underline-orange">technical research</span>.
   </p>
   <div>
     <p>
-      As an avid CTFer, I specialize in the <span class="underline-green"
-        >web</span
-      >
-      and <span class="underline-green">pwn</span> categories. My passion lies
-      at the crossroads of the two realms of exploitation, particularly in the
-      domain of browser exploitation. You can find my numerous write-ups on my
-      <span class="underline-red"
-        ><a
-          href="https://jaxdunfee.com/blog"
-          target="_blank"
-          class="hover:text-[#f36170]">blog</a
-        ></span
-      >.
+      In the CTF space, I specialize in <span class="underline-green">pwn</span> and 
+      <span class="underline-green">web</span> categories, with particular interest in 
+      browser exploitation challenges. My technical write-ups are available on my
+      <span class="underline-red">
+        <a href="https://jaxdunfee.com/blog" target="_blank" class="hover:text-[#f36170]">
+          blog
+        </a>
+      </span>.
     </p>
   </div>
   <p>
-    Based in <span class="underline-orange"> Washington D.C.</span> area, you
-    might catch me immersing myself in a good book, rock climbing, or perfecting
-    the art of espresso.<br />
+    Based in the <span class="underline-orange">Washington D.C.</span> area, I balance 
+    technical work with rock climbing, reading, and my love for coffee.
   </p>
 
   <div class="leading-snug space-y-4">
-    <p>Check out some of my projects:</p>
+    <p>Selected projects:</p>
     {#each featuredProjects as project}
       <a class="project-pair" href={project.href} target="_blank">
         <div class="text-[#BBBBBB] font-medium hover:text-[#DAA520]">
